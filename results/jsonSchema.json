@@ -1,0 +1,2994 @@
+{
+  "customfield_21883": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21883
+  },
+  "customfield_17382": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17382
+  },
+  "customfield_21882": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21882
+  },
+  "customfield_17381": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17381
+  },
+  "resolution": {
+    "system": "resolution",
+    "type": "resolution"
+  },
+  "customfield_17380": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17380
+  },
+  "customfield_16284": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 16284
+  },
+  "lastViewed": {
+    "system": "lastViewed",
+    "type": "datetime"
+  },
+  "customfield_20781": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 20781
+  },
+  "customfield_16282": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 16282
+  },
+  "customfield_16281": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16281
+  },
+  "customfield_20780": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 20780
+  },
+  "customfield_16286": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 16286
+  },
+  "customfield_16285": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16285
+  },
+  "customfield_10980": {
+    "custom": "com.pyxis.greenhopper.jira:gh-global-rank",
+    "type": "any",
+    "customId": 10980
+  },
+  "customfield_10981": {
+    "custom": "com.pyxis.greenhopper.jira:gh-sprint",
+    "type": "array",
+    "items": "string",
+    "customId": 10981
+  },
+  "aggregatetimeoriginalestimate": {
+    "system": "aggregatetimeoriginalestimate",
+    "type": "number"
+  },
+  "issuelinks": {
+    "system": "issuelinks",
+    "type": "array",
+    "items": "issuelinks"
+  },
+  "assignee": {
+    "system": "assignee",
+    "type": "user"
+  },
+  "customfield_17482": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17482
+  },
+  "customfield_15181": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15181
+  },
+  "customfield_17481": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17481
+  },
+  "customfield_17480": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17480
+  },
+  "customfield_16398": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16398
+  },
+  "customfield_16397": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16397
+  },
+  "customfield_19780": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 19780
+  },
+  "customfield_16396": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16396
+  },
+  "customfield_16395": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16395
+  },
+  "customfield_20880": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 20880
+  },
+  "customfield_14081": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 14081
+  },
+  "customfield_20881": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 20881
+  },
+  "customfield_16380": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 16380
+  },
+  "customfield_16387": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 16387
+  },
+  "customfield_16386": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16386
+  },
+  "subtasks": {
+    "system": "subtasks",
+    "type": "array",
+    "items": "issuelinks"
+  },
+  "customfield_16385": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16385
+  },
+  "customfield_16388": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 16388
+  },
+  "customfield_23980": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 23980
+  },
+  "votes": {
+    "system": "votes",
+    "type": "votes"
+  },
+  "customfield_23981": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 23981
+  },
+  "worklog": {
+    "system": "worklog",
+    "type": "array",
+    "items": "worklog"
+  },
+  "customfield_23982": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 23982
+  },
+  "customfield_14193": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 14193
+  },
+  "issuetype": {
+    "system": "issuetype",
+    "type": "issuetype"
+  },
+  "customfield_17581": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17581
+  },
+  "customfield_18310": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18310
+  },
+  "customfield_14191": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 14191
+  },
+  "customfield_15280": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15280
+  },
+  "customfield_18311": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 18311
+  },
+  "customfield_15281": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15281
+  },
+  "customfield_14198": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 14198
+  },
+  "customfield_14196": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 14196
+  },
+  "customfield_18318": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:labels",
+    "type": "array",
+    "items": "string",
+    "customId": 18318
+  },
+  "customfield_14199": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 14199
+  },
+  "customfield_18313": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 18313
+  },
+  "customfield_18314": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 18314
+  },
+  "customfield_18315": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18315
+  },
+  "customfield_18316": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18316
+  },
+  "customfield_21715": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21715
+  },
+  "customfield_21714": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21714
+  },
+  "customfield_21713": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21713
+  },
+  "customfield_21712": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21712
+  },
+  "customfield_21711": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21711
+  },
+  "customfield_21710": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21710
+  },
+  "customfield_18782": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 18782
+  },
+  "customfield_20980": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 20980
+  },
+  "customfield_14184": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 14184
+  },
+  "customfield_18780": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 18780
+  },
+  "customfield_18781": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18781
+  },
+  "customfield_18307": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 18307
+  },
+  "customfield_18308": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 18308
+  },
+  "customfield_18309": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 18309
+  },
+  "customfield_18302": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 18302
+  },
+  "customfield_18304": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 18304
+  },
+  "customfield_18305": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18305
+  },
+  "customfield_21709": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21709
+  },
+  "customfield_21708": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21708
+  },
+  "customfield_21707": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21707
+  },
+  "customfield_21706": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21706
+  },
+  "customfield_21705": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21705
+  },
+  "customfield_21704": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21704
+  },
+  "customfield_23880": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23880
+  },
+  "customfield_21703": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21703
+  },
+  "customfield_23881": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23881
+  },
+  "customfield_21702": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21702
+  },
+  "customfield_21701": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21701
+  },
+  "customfield_21700": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21700
+  },
+  "customfield_15381": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15381
+  },
+  "customfield_17681": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17681
+  },
+  "customfield_19981": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 19981
+  },
+  "customfield_15382": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15382
+  },
+  "customfield_17680": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17680
+  },
+  "customfield_13080": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 13080
+  },
+  "customfield_15380": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15380
+  },
+  "customfield_19980": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 19980
+  },
+  "timetracking": {
+    "system": "timetracking",
+    "type": "timetracking"
+  },
+  "customfield_21930": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 21930
+  },
+  "customfield_16581": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16581
+  },
+  "customfield_13190": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 13190
+  },
+  "customfield_18400": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 18400
+  },
+  "customfield_14285": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 14285
+  },
+  "customfield_17794": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17794
+  },
+  "customfield_17792": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17792
+  },
+  "customfield_18880": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18880
+  },
+  "customfield_18405": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18405
+  },
+  "customfield_17797": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17797
+  },
+  "customfield_17796": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17796
+  },
+  "customfield_18401": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 18401
+  },
+  "customfield_18402": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 18402
+  },
+  "customfield_18404": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18404
+  },
+  "environment": {
+    "system": "environment",
+    "type": "string"
+  },
+  "customfield_21928": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21928
+  },
+  "customfield_21927": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "type": "string",
+    "customId": 21927
+  },
+  "duedate": {
+    "system": "duedate",
+    "type": "date"
+  },
+  "customfield_21926": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 21926
+  },
+  "customfield_23780": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 23780
+  },
+  "customfield_21925": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21925
+  },
+  "customfield_23781": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 23781
+  },
+  "customfield_21924": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21924
+  },
+  "customfield_23782": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 23782
+  },
+  "customfield_21923": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21923
+  },
+  "customfield_23783": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 23783
+  },
+  "customfield_21922": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21922
+  },
+  "customfield_21921": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21921
+  },
+  "customfield_23784": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 23784
+  },
+  "customfield_21920": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21920
+  },
+  "customfield_23785": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 23785
+  },
+  "customfield_23786": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 23786
+  },
+  "customfield_23787": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 23787
+  },
+  "customfield_11683": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 11683
+  },
+  "customfield_13500": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 13500
+  },
+  "customfield_13502": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13502
+  },
+  "customfield_13501": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 13501
+  },
+  "customfield_10588": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 10588
+  },
+  "customfield_10225": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 10225
+  },
+  "customfield_24080": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 24080
+  },
+  "customfield_11798": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 11798
+  },
+  "customfield_10589": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 10589
+  },
+  "customfield_24081": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 24081
+  },
+  "customfield_19280": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 19280
+  },
+  "customfield_19281": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 19281
+  },
+  "customfield_19282": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 19282
+  },
+  "customfield_19283": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 19283
+  },
+  "customfield_18184": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18184
+  },
+  "customfield_18185": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 18185
+  },
+  "customfield_18186": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 18186
+  },
+  "customfield_12880": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 12880
+  },
+  "customfield_20380": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 20380
+  },
+  "customfield_10582": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 10582
+  },
+  "customfield_10583": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:url",
+    "type": "string",
+    "customId": 10583
+  },
+  "customfield_11797": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 11797
+  },
+  "customfield_10587": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 10587
+  },
+  "timeestimate": {
+    "system": "timeestimate",
+    "type": "number"
+  },
+  "customfield_18180": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 18180
+  },
+  "customfield_18181": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18181
+  },
+  "status": {
+    "system": "status",
+    "type": "status"
+  },
+  "customfield_18298": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18298
+  },
+  "customfield_18299": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18299
+  },
+  "customfield_21583": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21583
+  },
+  "customfield_18294": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 18294
+  },
+  "customfield_21582": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21582
+  },
+  "customfield_21581": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21581
+  },
+  "customfield_18296": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 18296
+  },
+  "customfield_21580": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 21580
+  },
+  "customfield_18297": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 18297
+  },
+  "archiveddate": {
+    "system": "archiveddate",
+    "type": "datetime"
+  },
+  "aggregatetimeestimate": {
+    "system": "aggregatetimeestimate",
+    "type": "number"
+  },
+  "customfield_18290": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18290
+  },
+  "customfield_18293": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18293
+  },
+  "customfield_21699": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21699
+  },
+  "customfield_17081": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17081
+  },
+  "customfield_21698": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21698
+  },
+  "customfield_17080": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17080
+  },
+  "customfield_18288": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18288
+  },
+  "customfield_21695": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21695
+  },
+  "customfield_18289": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18289
+  },
+  "creator": {
+    "system": "creator",
+    "type": "user"
+  },
+  "customfield_21694": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21694
+  },
+  "customfield_18284": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18284
+  },
+  "customfield_18285": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18285
+  },
+  "customfield_21691": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 21691
+  },
+  "customfield_20480": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20480
+  },
+  "customfield_18286": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18286
+  },
+  "customfield_21690": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21690
+  },
+  "customfield_13702": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13702
+  },
+  "customfield_13704": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13704
+  },
+  "customfield_13703": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13703
+  },
+  "customfield_13705": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13705
+  },
+  "customfield_18280": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect",
+    "type": "option-with-child",
+    "customId": 18280
+  },
+  "customfield_18282": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18282
+  },
+  "customfield_21689": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 21689
+  },
+  "customfield_21688": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 21688
+  },
+  "customfield_21686": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21686
+  },
+  "customfield_18397": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 18397
+  },
+  "customfield_21685": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21685
+  },
+  "customfield_18398": {
+    "custom": "com.onresolve.jira.groovy.groovyrunner:scripted-field",
+    "type": "any",
+    "customId": 18398
+  },
+  "customfield_18399": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 18399
+  },
+  "customfield_21682": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21682
+  },
+  "customfield_21681": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21681
+  },
+  "customfield_21680": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21680
+  },
+  "customfield_18395": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18395
+  },
+  "timespent": {
+    "system": "timespent",
+    "type": "number"
+  },
+  "aggregatetimespent": {
+    "system": "aggregatetimespent",
+    "type": "number"
+  },
+  "customfield_14900": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 14900
+  },
+  "customfield_18390": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 18390
+  },
+  "workratio": {
+    "system": "workratio",
+    "type": "number"
+  },
+  "customfield_18391": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 18391
+  },
+  "customfield_19480": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 19480
+  },
+  "customfield_19481": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 19481
+  },
+  "customfield_18392": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18392
+  },
+  "customfield_17181": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17181
+  },
+  "customfield_20587": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 20587
+  },
+  "customfield_17180": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 17180
+  },
+  "customfield_20588": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 20588
+  },
+  "customfield_20585": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 20585
+  },
+  "customfield_18386": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 18386
+  },
+  "customfield_20586": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 20586
+  },
+  "customfield_18387": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 18387
+  },
+  "customfield_17295": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17295
+  },
+  "customfield_17294": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17294
+  },
+  "customfield_20583": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 20583
+  },
+  "customfield_18388": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18388
+  },
+  "customfield_20584": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 20584
+  },
+  "customfield_17293": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17293
+  },
+  "customfield_18389": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18389
+  },
+  "customfield_20581": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 20581
+  },
+  "customfield_18382": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 18382
+  },
+  "customfield_20582": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 20582
+  },
+  "customfield_22880": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 22880
+  },
+  "customfield_17299": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17299
+  },
+  "customfield_18383": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 18383
+  },
+  "customfield_17298": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17298
+  },
+  "customfield_18384": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 18384
+  },
+  "customfield_20580": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20580
+  },
+  "customfield_18385": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 18385
+  },
+  "customfield_10780": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 10780
+  },
+  "customfield_18380": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 18380
+  },
+  "customfield_18381": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18381
+  },
+  "customfield_17292": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17292
+  },
+  "customfield_16081": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16081
+  },
+  "customfield_17290": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17290
+  },
+  "customfield_16080": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 16080
+  },
+  "customfield_17283": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17283
+  },
+  "customfield_17282": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17282
+  },
+  "customfield_17289": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17289
+  },
+  "customfield_19581": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 19581
+  },
+  "customfield_21780": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 21780
+  },
+  "customfield_17288": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 17288
+  },
+  "customfield_17287": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17287
+  },
+  "customfield_17286": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17286
+  },
+  "customfield_19584": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 19584
+  },
+  "customfield_11983": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 11983
+  },
+  "customfield_19580": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 19580
+  },
+  "customfield_21899": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 21899
+  },
+  "customfield_17280": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17280
+  },
+  "customfield_21896": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21896
+  },
+  "customfield_20684": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20684
+  },
+  "customfield_21895": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21895
+  },
+  "customfield_21894": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21894
+  },
+  "customfield_21893": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21893
+  },
+  "customfield_21892": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21892
+  },
+  "customfield_20683": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 20683
+  },
+  "customfield_21891": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21891
+  },
+  "customfield_20681": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 20681
+  },
+  "customfield_21889": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21889
+  },
+  "customfield_18480": {
+    "custom": "com.deiser.jira.profields:profields.customfield.type.text",
+    "type": "string",
+    "customId": 18480
+  },
+  "customfield_21888": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21888
+  },
+  "customfield_21887": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21887
+  },
+  "customfield_16180": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 16180
+  },
+  "customfield_15881": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15881
+  },
+  "customfield_13581": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13581
+  },
+  "customfield_13584": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 13584
+  },
+  "customfield_15884": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15884
+  },
+  "customfield_11286": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 11286
+  },
+  "customfield_15883": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15883
+  },
+  "customfield_21080": {
+    "custom": "com.atlassian.jira.plugins.jira-development-integration-plugin:devsummary",
+    "type": "any",
+    "customId": 21080
+  },
+  "customfield_17825": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17825
+  },
+  "customfield_11289": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 11289
+  },
+  "customfield_17824": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17824
+  },
+  "customfield_17823": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17823
+  },
+  "customfield_17822": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17822
+  },
+  "customfield_17818": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17818
+  },
+  "customfield_17817": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17817
+  },
+  "customfield_17815": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17815
+  },
+  "customfield_15638": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15638
+  },
+  "customfield_12480": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 12480
+  },
+  "customfield_14780": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 14780
+  },
+  "customfield_14781": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 14781
+  },
+  "customfield_13692": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13692
+  },
+  "customfield_13691": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13691
+  },
+  "customfield_12481": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 12481
+  },
+  "customfield_17810": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 17810
+  },
+  "customfield_13694": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13694
+  },
+  "customfield_13693": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13693
+  },
+  "customfield_14782": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect",
+    "type": "option-with-child",
+    "customId": 14782
+  },
+  "customfield_13695": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13695
+  },
+  "customfield_22280": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22280
+  },
+  "customfield_17813": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17813
+  },
+  "labels": {
+    "system": "labels",
+    "type": "array",
+    "items": "string"
+  },
+  "customfield_15628": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 15628
+  },
+  "customfield_17807": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17807
+  },
+  "customfield_15629": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 15629
+  },
+  "customfield_17805": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17805
+  },
+  "customfield_15626": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 15626
+  },
+  "customfield_17804": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 17804
+  },
+  "customfield_15627": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 15627
+  },
+  "customfield_17809": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17809
+  },
+  "customfield_17808": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 17808
+  },
+  "components": {
+    "system": "components",
+    "type": "array",
+    "items": "component"
+  },
+  "customfield_11380": {
+    "custom": "com.onresolve.jira.groovy.groovyrunner:jqlFunctionsCustomFieldType",
+    "type": "any",
+    "customId": 11380
+  },
+  "customfield_14890": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 14890
+  },
+  "customfield_15980": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15980
+  },
+  "customfield_13680": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13680
+  },
+  "customfield_22393": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 22393
+  },
+  "customfield_13683": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 13683
+  },
+  "customfield_20093": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 20093
+  },
+  "customfield_21182": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21182
+  },
+  "customfield_22392": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 22392
+  },
+  "customfield_14895": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 14895
+  },
+  "customfield_22391": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 22391
+  },
+  "customfield_13685": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13685
+  },
+  "customfield_21181": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 21181
+  },
+  "customfield_15981": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15981
+  },
+  "customfield_11386": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect",
+    "type": "option-with-child",
+    "customId": 11386
+  },
+  "customfield_20091": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20091
+  },
+  "customfield_21180": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21180
+  },
+  "customfield_20092": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 20092
+  },
+  "customfield_17803": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 17803
+  },
+  "customfield_14898": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 14898
+  },
+  "customfield_13687": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 13687
+  },
+  "customfield_15625": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15625
+  },
+  "customfield_17802": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17802
+  },
+  "customfield_13686": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13686
+  },
+  "customfield_11387": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 11387
+  },
+  "customfield_20090": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 20090
+  },
+  "customfield_14896": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 14896
+  },
+  "customfield_10179": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 10179
+  },
+  "customfield_15985": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 15985
+  },
+  "customfield_17800": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 17800
+  },
+  "customfield_15615": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 15615
+  },
+  "customfield_14889": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 14889
+  },
+  "customfield_24380": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 24380
+  },
+  "customfield_24381": {
+    "custom": "com.onresolve.jira.groovy.groovyrunner:single-issue-picker-cf",
+    "type": "issuelinks",
+    "customId": 24381
+  },
+  "customfield_22388": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 22388
+  },
+  "customfield_20088": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20088
+  },
+  "customfield_22387": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22387
+  },
+  "customfield_10280": {
+    "custom": "com.pyxis.greenhopper.jira:gh-global-rank",
+    "type": "any",
+    "customId": 10280
+  },
+  "customfield_14880": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 14880
+  },
+  "customfield_20087": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 20087
+  },
+  "customfield_22384": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 22384
+  },
+  "customfield_20084": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20084
+  },
+  "customfield_22383": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 22383
+  },
+  "customfield_20085": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20085
+  },
+  "customfield_10161": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 10161
+  },
+  "customfield_22382": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22382
+  },
+  "customfield_20082": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20082
+  },
+  "customfield_14883": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 14883
+  },
+  "customfield_22381": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22381
+  },
+  "customfield_20083": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20083
+  },
+  "customfield_15610": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 15610
+  },
+  "customfield_12582": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 12582
+  },
+  "reporter": {
+    "system": "reporter",
+    "type": "user"
+  },
+  "customfield_22380": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 22380
+  },
+  "customfield_20080": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20080
+  },
+  "customfield_14881": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 14881
+  },
+  "customfield_12585": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 12585
+  },
+  "customfield_20081": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 20081
+  },
+  "customfield_14882": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 14882
+  },
+  "customfield_12584": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 12584
+  },
+  "customfield_15613": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15613
+  },
+  "customfield_12586": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 12586
+  },
+  "customfield_14885": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 14885
+  },
+  "customfield_12589": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 12589
+  },
+  "customfield_12588": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 12588
+  },
+  "customfield_15612": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15612
+  },
+  "customfield_15606": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15606
+  },
+  "customfield_15607": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15607
+  },
+  "customfield_15604": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15604
+  },
+  "customfield_15605": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 15605
+  },
+  "customfield_15608": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15608
+  },
+  "customfield_15609": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 15609
+  },
+  "progress": {
+    "system": "progress",
+    "type": "progress"
+  },
+  "archivedby": {
+    "system": "archivedby",
+    "type": "user"
+  },
+  "project": {
+    "system": "project",
+    "type": "project"
+  },
+  "customfield_21280": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 21280
+  },
+  "customfield_13786": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 13786
+  },
+  "customfield_15602": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15602
+  },
+  "customfield_15603": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15603
+  },
+  "customfield_15600": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 15600
+  },
+  "customfield_15601": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15601
+  },
+  "customfield_24281": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 24281
+  },
+  "customfield_24282": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 24282
+  },
+  "resolutiondate": {
+    "system": "resolutiondate",
+    "type": "datetime"
+  },
+  "customfield_24288": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 24288
+  },
+  "customfield_24289": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 24289
+  },
+  "customfield_19080": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 19080
+  },
+  "customfield_19081": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 19081
+  },
+  "watches": {
+    "system": "watches",
+    "type": "watches"
+  },
+  "customfield_12680": {
+    "custom": "com.tempoplugin.tempo-accounts:accounts.customfield",
+    "type": "account",
+    "customId": 12680
+  },
+  "customfield_10380": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 10380
+  },
+  "customfield_10381": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:labels",
+    "type": "array",
+    "items": "string",
+    "customId": 10381
+  },
+  "customfield_10382": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 10382
+  },
+  "customfield_22481": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 22481
+  },
+  "customfield_12682": {
+    "custom": "com.tempoplugin.tempo-plan-core:tp.iteration.customfield",
+    "type": "string",
+    "customId": 12682
+  },
+  "customfield_22480": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 22480
+  },
+  "customfield_12681": {
+    "custom": "com.tempoplugin.tempo-teams:team.customfield",
+    "type": "string",
+    "customId": 12681
+  },
+  "customfield_10383": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 10383
+  },
+  "customfield_20180": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 20180
+  },
+  "customfield_10386": {
+    "custom": "com.pyxis.greenhopper.jira:greenhopper-releasedmultiversionhistory",
+    "type": "version",
+    "customId": 10386
+  },
+  "customfield_10144": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 10144
+  },
+  "customfield_10138": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 10138
+  },
+  "customfield_24290": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 24290
+  },
+  "customfield_10139": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 10139
+  },
+  "customfield_24291": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 24291
+  },
+  "customfield_24292": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 24292
+  },
+  "customfield_24293": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 24293
+  },
+  "customfield_24294": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 24294
+  },
+  "customfield_24295": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 24295
+  },
+  "customfield_24296": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 24296
+  },
+  "updated": {
+    "system": "updated",
+    "type": "datetime"
+  },
+  "timeoriginalestimate": {
+    "system": "timeoriginalestimate",
+    "type": "number"
+  },
+  "customfield_21381": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21381
+  },
+  "description": {
+    "system": "description",
+    "type": "string"
+  },
+  "customfield_13515": {
+    "custom": "com.onresolve.jira.groovy.groovyrunner:scripted-field",
+    "type": "any",
+    "customId": 13515
+  },
+  "customfield_13514": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13514
+  },
+  "customfield_13517": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13517
+  },
+  "customfield_19181": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 19181
+  },
+  "customfield_19182": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 19182
+  },
+  "customfield_19180": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 19180
+  },
+  "summary": {
+    "system": "summary",
+    "type": "string"
+  },
+  "customfield_20288": {
+    "custom": "com.onresolve.jira.groovy.groovyrunner:scripted-field",
+    "type": "any",
+    "customId": 20288
+  },
+  "customfield_20289": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 20289
+  },
+  "customfield_20286": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 20286
+  },
+  "customfield_20284": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 20284
+  },
+  "customfield_20285": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 20285
+  },
+  "customfield_20282": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 20282
+  },
+  "customfield_20283": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 20283
+  },
+  "customfield_22580": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 22580
+  },
+  "customfield_10240": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 10240
+  },
+  "customfield_12780": {
+    "custom": "com.atlassian.jpo:jpo-custom-field-parent",
+    "type": "any",
+    "customId": 12780
+  },
+  "customfield_13509": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13509
+  },
+  "customfield_18081": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 18081
+  },
+  "customfield_18082": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 18082
+  },
+  "comment": {
+    "system": "comment",
+    "type": "comments-page"
+  },
+  "customfield_18083": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 18083
+  },
+  "customfield_18080": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 18080
+  },
+  "customfield_23788": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 23788
+  },
+  "customfield_17780": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 17780
+  },
+  "customfield_23789": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 23789
+  },
+  "customfield_17784": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17784
+  },
+  "customfield_17300": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17300
+  },
+  "customfield_17783": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 17783
+  },
+  "customfield_13183": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 13183
+  },
+  "customfield_17782": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 17782
+  },
+  "customfield_17781": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17781
+  },
+  "customfield_13185": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:grouppicker",
+    "type": "group",
+    "customId": 13185
+  },
+  "customfield_17788": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17788
+  },
+  "customfield_17787": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 17787
+  },
+  "customfield_17786": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17786
+  },
+  "fixVersions": {
+    "system": "fixVersions",
+    "type": "array",
+    "items": "version"
+  },
+  "customfield_17301": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 17301
+  },
+  "customfield_13189": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multigrouppicker",
+    "type": "array",
+    "items": "group",
+    "customId": 13189
+  },
+  "customfield_17789": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 17789
+  },
+  "customfield_21918": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 21918
+  },
+  "customfield_21917": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 21917
+  },
+  "customfield_21916": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21916
+  },
+  "customfield_21915": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 21915
+  },
+  "customfield_23790": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 23790
+  },
+  "customfield_21913": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21913
+  },
+  "customfield_21912": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21912
+  },
+  "customfield_23793": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23793
+  },
+  "customfield_21911": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21911
+  },
+  "customfield_23794": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 23794
+  },
+  "customfield_21910": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21910
+  },
+  "customfield_23795": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23795
+  },
+  "customfield_23796": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23796
+  },
+  "customfield_23797": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 23797
+  },
+  "customfield_23798": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 23798
+  },
+  "customfield_14380": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 14380
+  },
+  "customfield_15590": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15590
+  },
+  "customfield_18980": {
+    "custom": "com.onresolve.jira.groovy.groovyrunner:scripted-field",
+    "type": "any",
+    "customId": 18980
+  },
+  "customfield_15594": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15594
+  },
+  "customfield_14385": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 14385
+  },
+  "customfield_15595": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15595
+  },
+  "customfield_14383": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 14383
+  },
+  "customfield_15593": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15593
+  },
+  "customfield_15598": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15598
+  },
+  "customfield_15599": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15599
+  },
+  "customfield_12087": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 12087
+  },
+  "customfield_15596": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15596
+  },
+  "customfield_15597": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15597
+  },
+  "priority": {
+    "system": "priority",
+    "type": "priority"
+  },
+  "customfield_21909": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21909
+  },
+  "customfield_21908": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21908
+  },
+  "versions": {
+    "system": "versions",
+    "type": "array",
+    "items": "version"
+  },
+  "customfield_21905": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 21905
+  },
+  "customfield_21904": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 21904
+  },
+  "customfield_21902": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 21902
+  },
+  "customfield_21901": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 21901
+  },
+  "customfield_21900": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:userpicker",
+    "type": "user",
+    "customId": 21900
+  },
+  "customfield_13281": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 13281
+  },
+  "customfield_17883": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17883
+  },
+  "customfield_17882": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17882
+  },
+  "customfield_17881": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17881
+  },
+  "customfield_17880": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17880
+  },
+  "customfield_23081": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 23081
+  },
+  "customfield_23080": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 23080
+  },
+  "customfield_15589": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 15589
+  },
+  "customfield_14480": {
+    "custom": "com.atlassian.teams:rm-teams-custom-field-team",
+    "type": "any",
+    "customId": 14480
+  },
+  "customfield_14483": {
+    "custom": "com.atlassian.jpo:jpo-custom-field-original-story-points",
+    "type": "number",
+    "customId": 14483
+  },
+  "customfield_14481": {
+    "custom": "com.atlassian.jpo:jpo-custom-field-baseline-start",
+    "type": "date",
+    "customId": 14481
+  },
+  "customfield_14482": {
+    "custom": "com.atlassian.jpo:jpo-custom-field-baseline-end",
+    "type": "date",
+    "customId": 14482
+  },
+  "customfield_16780": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:project",
+    "type": "project",
+    "customId": 16780
+  },
+  "aggregateprogress": {
+    "system": "aggregateprogress",
+    "type": "progress"
+  },
+  "customfield_23580": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 23580
+  },
+  "customfield_23581": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23581
+  },
+  "customfield_23582": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23582
+  },
+  "customfield_23583": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23583
+  },
+  "customfield_23584": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23584
+  },
+  "customfield_11080": {
+    "custom": "com.pyxis.greenhopper.jira:gh-epic-link",
+    "type": "any",
+    "customId": 11080
+  },
+  "customfield_13384": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 13384
+  },
+  "customfield_17980": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17980
+  },
+  "customfield_22097": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22097
+  },
+  "customfield_23186": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 23186
+  },
+  "customfield_22096": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22096
+  },
+  "customfield_23185": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 23185
+  },
+  "customfield_22094": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22094
+  },
+  "customfield_23182": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 23182
+  },
+  "customfield_22093": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22093
+  },
+  "customfield_22092": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22092
+  },
+  "customfield_22091": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22091
+  },
+  "customfield_13490": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13490
+  },
+  "customfield_13492": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13492
+  },
+  "customfield_17850": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17850
+  },
+  "customfield_22088": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22088
+  },
+  "customfield_13491": {
+    "custom": "com.thed.zephyr.je:zephyr-je-customfield-teststep",
+    "type": "any",
+    "customId": 13491
+  },
+  "customfield_22087": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22087
+  },
+  "customfield_13494": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datetime",
+    "type": "datetime",
+    "customId": 13494
+  },
+  "customfield_14580": {
+    "custom": "com.tempoplugin.tempo-teams:team.role.customfield",
+    "type": "string",
+    "customId": 14580
+  },
+  "created": {
+    "system": "created",
+    "type": "datetime"
+  },
+  "customfield_22086": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22086
+  },
+  "customfield_13493": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13493
+  },
+  "customfield_22085": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 22085
+  },
+  "customfield_16886": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 16886
+  },
+  "customfield_13496": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13496
+  },
+  "customfield_22084": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 22084
+  },
+  "customfield_13495": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiuserpicker",
+    "type": "array",
+    "items": "user",
+    "customId": 13495
+  },
+  "customfield_17853": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17853
+  },
+  "customfield_22083": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 22083
+  },
+  "customfield_13498": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 13498
+  },
+  "customfield_17852": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17852
+  },
+  "customfield_22082": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 22082
+  },
+  "customfield_17851": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17851
+  },
+  "customfield_13497": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 13497
+  },
+  "customfield_16883": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 16883
+  },
+  "customfield_22080": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 22080
+  },
+  "customfield_13499": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 13499
+  },
+  "customfield_17849": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17849
+  },
+  "customfield_17848": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17848
+  },
+  "customfield_23480": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textarea",
+    "type": "string",
+    "customId": 23480
+  },
+  "customfield_23481": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 23481
+  },
+  "customfield_15781": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 15781
+  },
+  "customfield_13481": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:radiobuttons",
+    "type": "option",
+    "customId": 13481
+  },
+  "customfield_13480": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13480
+  },
+  "customfield_23285": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 23285
+  },
+  "customfield_13482": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 13482
+  },
+  "customfield_13484": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13484
+  },
+  "customfield_13487": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13487
+  },
+  "customfield_13486": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 13486
+  },
+  "customfield_17847": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17847
+  },
+  "customfield_13488": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 13488
+  },
+  "customfield_17846": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17846
+  },
+  "customfield_17845": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17845
+  },
+  "attachment": {
+    "system": "attachment",
+    "type": "array",
+    "items": "attachment"
+  },
+  "customfield_16981": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 16981
+  },
+  "customfield_12381": {
+    "custom": "com.pyxis.greenhopper.jira:gh-lexo-rank",
+    "type": "any",
+    "customId": 12381
+  },
+  "customfield_12380": {
+    "custom": "com.pyxis.greenhopper.jira:gh-lexo-rank",
+    "type": "any",
+    "customId": 12380
+  },
+  "customfield_16980": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 16980
+  },
+  "customfield_14680": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:datepicker",
+    "type": "date",
+    "customId": 14680
+  },
+  "customfield_17831": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 17831
+  },
+  "customfield_14202": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:cascadingselect",
+    "type": "option-with-child",
+    "customId": 14202
+  },
+  "customfield_16983": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 16983
+  },
+  "customfield_17830": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17830
+  },
+  "customfield_16982": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 16982
+  },
+  "customfield_14200": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:float",
+    "type": "number",
+    "customId": 14200
+  },
+  "customfield_22180": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multiselect",
+    "type": "array",
+    "items": "option",
+    "customId": 22180
+  },
+  "customfield_14203": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 14203
+  },
+  "customfield_14204": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 14204
+  },
+  "customfield_17829": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:select",
+    "type": "option",
+    "customId": 17829
+  },
+  "customfield_17828": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17828
+  },
+  "customfield_17827": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17827
+  },
+  "customfield_17826": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:textfield",
+    "type": "string",
+    "customId": 17826
+  },
+  "customfield_23385": {
+    "custom": "com.atlassian.jira.plugin.system.customfieldtypes:multicheckboxes",
+    "type": "array",
+    "items": "option",
+    "customId": 23385
+  }
+}
